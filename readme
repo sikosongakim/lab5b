@@ -1,0 +1,18 @@
+# Lab5b: Server-Side Scripting with PHP – CRUD Form
+
+This project is a simple PHP-based CRUD (Create, Read, Update, Delete) application. It demonstrates how to handle user data with a MySQL database, including authentication and session management.
+
+---
+
+## **Setup Instructions**
+
+### 1. Prerequisites
+- Install [XAMPP](https://www.apachefriends.org/index.html) or any local PHP server (e.g., WAMP, LAMP).
+- Ensure MySQL is running on your server.
+
+---
+
+### 2. Clone the Repository
+```bash
+git clone https://github.com/yourusername/Lab5b.git
+cd Lab5b
